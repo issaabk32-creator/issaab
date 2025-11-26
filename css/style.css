@@ -7,6 +7,7 @@ body{
     /* sans-serif au cas ou il n'a pas de connexion */
     font-family: "Lato" , sans-serif; 
     background-color: #4C53A5;
+    overflow-x: hidden;
 }
 h1,h2,h3,h4,h5,h6{
     font-weight: bold;
@@ -423,4 +424,5 @@ footer span:hover{
 footer h5{
     color: #0069d6;
     font-weight: normal;
+
 }
